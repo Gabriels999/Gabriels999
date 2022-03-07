@@ -9,7 +9,7 @@ Estudante de Sistemas de Informação.
 Atualmente buscando oportunidades como júnior ou estagiário na área de desenvolvimento front-end.
 
 <div>
- <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=gabriels999&show_icons=true&theme=tokyonight"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriels999&show_icons=true&theme=tokyonight"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriels999&layout=compact&theme=tokyonight"/>
 </div>
 

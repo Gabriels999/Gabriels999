@@ -20,3 +20,4 @@ Here are some ideas to get you started:
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriels999&layout=compact&theme=tokyonight"/>
 </div>
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521981083345)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/n9KBKHPA3H)

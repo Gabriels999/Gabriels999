@@ -2,11 +2,11 @@
 
 Me chamo Gabriel Santos.
 
-Rio de Janeiro.
+São José dos Campos.
 
-Estudante de Sistemas de Informação.
+Estudante de Ciência da Computação.
 
-Atualmente buscando oportunidades como júnior ou estagiário na área de desenvolvimento front-end.
+Estagiário Fullstack na Buser.
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriels999&show_icons=true&theme=tokyonight"/>

@@ -1,6 +1,6 @@
 ### Welcome 👏🏾
 
-Me chamo Gabriel Santos.
+Gabriel Santos.
 
 São José dos Campos.
 

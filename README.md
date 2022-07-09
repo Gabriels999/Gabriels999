@@ -1,7 +1,5 @@
 ### Welcome 👏🏾
 
-![Snake animation](https://github.com/gabriels999/gabriels999/blob/output/github-contribution-grid-snake.svg)
-
 - Estagiário Fullstack na Buser.
 - São José dos Campos, SP.
 
@@ -23,3 +21,5 @@
 <img align="center" alt="Gabriel-HTML" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align="center" alt="Gabriel-CSS" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 </div>
+
+![Snake animation](https://github.com/gabriels999/gabriels999/blob/output/github-contribution-grid-snake.svg)

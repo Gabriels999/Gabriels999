@@ -1,6 +1,6 @@
 ### Welcome 👏🏾
 
-![Snake animation](https://github.com/Gabriels999/Gabriels999/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gabriels999/gabriels999/blob/output/github-contribution-grid-snake.svg)
 
 - Estagiário Fullstack na Buser.
 - São José dos Campos, SP.
@@ -17,6 +17,7 @@
 ## 🛠️ My favorite technologies and tools:
 <div>
 <img align="center" alt="Gabriel-Python" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img align="center" alt="Gabriel-Django" height="70" width="100" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" />
 <img align="center" alt="Gabriel-JS" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="center" alt="Gabriel-React" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img align="center" alt="Gabriel-HTML" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />

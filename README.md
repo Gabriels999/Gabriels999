@@ -1,12 +1,9 @@
 ### Welcome 👏🏾
 
-Gabriel Santos.
+![Snake animation](https://github.com/Gabriels999/Gabriels999/blob/output/github-contribution-grid-snake.svg)
 
-São José dos Campos.
-
-Estudante de Ciência da Computação.
-
-Estagiário Fullstack na Buser.
+- Estagiário Fullstack na Buser.
+- São José dos Campos, SP.
 
 <div>
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriels999&show_icons=true&theme=tokyonight"/>

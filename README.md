@@ -1,4 +1,4 @@
-## Fullstack na Buser Brasil :bus:
+## Fullstack na Buser :bus:
 ### São José dos Campos, SP.
 
 <div>

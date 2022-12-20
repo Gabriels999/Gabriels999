@@ -27,3 +27,5 @@
 </div>
 
 ![Snake animation](https://github.com/gabriels999/gabriels999/blob/output/github-contribution-grid-snake.svg)
+
+<img src="./ai.gif"/>

@@ -1,4 +1,4 @@
-## Estagiário de Data Engineering na Buser :bus:
+## Estagiário Fullstack na Buser :bus:
 ### São José dos Campos, SP.
 
 <div>

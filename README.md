@@ -16,7 +16,6 @@
 <img align="center" alt="Python" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img align="center" alt="Django" height="70" width="100" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" />
 <img align="center" alt="Flask" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original-wordmark.svg" />
-<img align="center" alt="SQLAlchemy" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" />
 
 <br>
 

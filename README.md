@@ -1,4 +1,4 @@
-## Fullstack Developer Pleno at Tour House
+## Fullstack Developer at Tour House
 ### São José dos Campos, SP.
 
 <div>

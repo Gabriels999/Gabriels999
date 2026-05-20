@@ -21,7 +21,7 @@ I build web applications across backend, frontend, integrations, and automation.
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-2F4858?style=for-the-badge)
 ![Clean Code](https://img.shields.io/badge/Clean_Code-006D77?style=for-the-badge)
 ![Domain Driven Design](https://img.shields.io/badge/Domain_Driven_Design-8D99AE?style=for-the-badge)
-![Data Driven Design](https://img.shields.io/badge/Data_Driven_Design-457B9D?style=for-the-badge)
+![Data Driven Development](https://img.shields.io/badge/Data_Driven_Development-457B9D?style=for-the-badge)
 ![Test Driven Development](https://img.shields.io/badge/Test_Driven_Development-2A9D8F?style=for-the-badge)
 ![Spec Driven Development](https://img.shields.io/badge/Spec_Driven_Development-6D597A?style=for-the-badge)
 ![Algorithms](https://img.shields.io/badge/Algorithms-E76F51?style=for-the-badge)
